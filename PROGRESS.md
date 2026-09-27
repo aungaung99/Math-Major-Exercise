@@ -43,3 +43,27 @@ Last reviewed: 2026-09-27
 - [x] Worked through initial simplex tableau, entering and leaving variables, ratio test, pivot, and `Cj − Zj` optimality check in conversation.
 - [ ] Recheck the later simplex calculations against the original question sheet; a row value was disputed and corrections were still being discussed.
 - [ ] Confirm independent practice and final answers for Unit 2 exercises.
+
+## Math 4104
+
+### Simultaneous differential equations
+
+- [x] No.2: solved using multipliers `x, y, u` and `1/x, -1/y, -1/u`; followed the source step order and reviewed why the multipliers/grouping work.
+
+### Charpit's Method
+
+- [x] No.9: worked through `u = p²x + q²y`, including Charpit auxiliary equations, grouping `dx` with `dp` and `dy` with `dq`, and the complete integral.
+- [x] No.9 note: the source's `q` expression appears inconsistent; for symmetry with `p`, use `q = (b√y + 1)/(b√y)`, giving `u = (a√x + 1)²/a² + (b√y + 1)²/b²`.
+- [x] No.10: worked through `pxy + pq + qy = yu`; identified `dp/0`, obtained `p = a`, used grouping by cancellation, and completed the integration to the final form `u = be^y/(a+y)^a + ax`.
+- [x] No.11: worked through `u² = xypq`; reviewed product-rule grouping leading to `d(px)/(px) = d(qy)/(qy)`, then used the resulting `p` and `q` forms and logarithmic integration.
+- [ ] No.20: next problem to study.
+
+### Exam-review reminders
+
+- [ ] Revisit differentiation and integration formulas before the exam.
+- [ ] Give extra attention to logarithms (`ln`), especially:
+  - `d(ln x)/dx = 1/x`
+  - `∫(1/x) dx = ln|x| + C`
+  - `k ln x = ln(x^k)`
+  - `ln A + ln B = ln(AB)`
+  - `ln A - ln B = ln(A/B)`
