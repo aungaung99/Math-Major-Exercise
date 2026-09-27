@@ -48,7 +48,9 @@ Last reviewed: 2026-09-27
 
 ### Simultaneous differential equations
 
-- [x] No.2: solved using multipliers `x, y, u` and `1/x, -1/y, -1/u`; followed the source step order and reviewed why the multipliers/grouping work.
+- [x] No.2: completed.
+- [x] No.5: completed.
+- [x] No.7: completed.
 
 ### Charpit's Method
 
