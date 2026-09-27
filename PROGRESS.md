@@ -1,5 +1,7 @@
 # Study Progress
 
+This is the earlier topic-level study record. The [README](README.md) is the current checklist for the exact question numbers in the three-page photo. Math 4103 work below has not been assigned to a Paper number because that mapping is unconfirmed.
+
 Last reviewed: 2026-09-27
 
 **How to read this:** `[x]` means the topic or exercise was worked through in a project conversation, or its existing study notes explicitly record it as completed. `[ ]` means further practice or confirmation is needed. These marks do not certify independent mastery.
