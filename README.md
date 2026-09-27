@@ -75,15 +75,15 @@
 
 သီးခြားပေးထားသော `Math-4104-Source-Compressed.pdf` ကို ဒီ Paper အတွက် reference အဖြစ် စစ်ထားပါတယ်။ Source စာမျက်နှာပေါ်က ဖြေရှင်းချက်တွေကို ပြီးစီးမှုအမှန်ခြစ်အဖြစ် မယူထားပါ။
 
-- [ ] Simultaneous equations No.2
+- [x] Simultaneous equations No.2
 - [ ] Simultaneous equations No.5
 - [ ] Simultaneous equations No.7
 - [ ] Wave equation No.20
 - [ ] Wave equation No.21
 - [ ] Wave equation No.22
-- [ ] Charpit method No.9
-- [ ] Charpit method No.10
-- [ ] Charpit method No.11
+- [x] Charpit method No.9
+- [x] Charpit method No.10
+- [x] Charpit method No.11
 
 ## Paper 5 — Math 4105 ([module file](modules/Paper-5-4105.md))
 
