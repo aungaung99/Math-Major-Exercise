@@ -58,7 +58,10 @@ Last reviewed: 2026-09-27
 - [x] No.9 note: the source's `q` expression appears inconsistent; for symmetry with `p`, use `q = (b√y + 1)/(b√y)`, giving `u = (a√x + 1)²/a² + (b√y + 1)²/b²`.
 - [x] No.10: worked through `pxy + pq + qy = yu`; identified `dp/0`, obtained `p = a`, used grouping by cancellation, and completed the integration to the final form `u = be^y/(a+y)^a + ax`.
 - [x] No.11: worked through `u² = xypq`; reviewed product-rule grouping leading to `d(px)/(px) = d(qy)/(qy)`, then used the resulting `p` and `q` forms and logarithmic integration.
-- [ ] No.20: next problem to study.
+
+### Wave equation
+
+- [ ] No.20: next problem to study (Neumann boundary conditions).
 
 ### Exam-review reminders
 
