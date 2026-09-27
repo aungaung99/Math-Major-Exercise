@@ -66,6 +66,10 @@ Last reviewed: 2026-09-27
 ### Exam-review reminders
 
 - [ ] Revisit differentiation and integration formulas before the exam.
+- [ ] Repractice these power-reduction identities on exam-review night (used in Math 4104 Wave Equation No.20):
+  - `cos²θ = (1 + cos(2θ))/2`
+  - `sin²θ = (1 - cos(2θ))/2`
+  - For No.20, set `θ = πx`; practice converting `cos²(πx)` and `sin²(πx)` before matching Fourier coefficients.
 - [ ] Give extra attention to logarithms (`ln`), especially:
   - `d(ln x)/dx = 1/x`
   - `∫(1/x) dx = ln|x| + C`
