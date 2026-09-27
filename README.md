@@ -2,13 +2,13 @@
 
 ဒီ checklist က ပေးထားသော **Math-4102-4103-Question-Numbers.pdf** ထဲက လက်ရေးစာရင်းကို အခြေခံထားပါတယ်။ စာမျက်နှာ ၃ မျက်နှာလုံးက နံပါတ်တွေကို Paper အလိုက် စုထားပြီး Paper တစ်ခုစီအတွက် [modules/](modules/) ထဲမှာ ဖိုင်တစ်ခုစီ ရှိပါတယ်။
 
-**Paper 1 = Math 4101; Paper 2 = Math 4102.** ကျန် Paper တွေရဲ့ course code ကို မအတည်ပြုရသေးလို့ နံပါတ်အတိုင်းပဲ ဖော်ပြထားပါတယ်။
+**Paper x = Math 41xx** (ဥပမာ Paper 1 = 4101, Paper 2 = 4102, Paper 4 = 4104) အဖြစ် ဖိုင်နာမည်နဲ့ ခေါင်းစဉ်တွေကို သတ်မှတ်ထားပါတယ်။
 
 - `[x]` = project chat မှာ အဲဒီနံပါတ်ကို တိတိကျကျ တွက်ရှင်းပြီးသား။ ကိုယ်တိုင်လွတ်လပ်စွာ ပြန်ဖြေနိုင်ပြီလို့ မဆိုလိုပါ။
 - `[ ]` = ပြီးကြောင်း အတည်မပြုရသေး။ မလုပ်ရသေးကြောင်း သေချာတယ်လို့လည်း မဆိုလိုပါ။
 - ဓာတ်ပုံထဲက အနီရောင်ဝိုင်း/အမှတ်နဲ့ မရှင်းတဲ့ ခဲတံအမှန်ခြစ်တွေကို ပြီးစီးမှုသက်သေအဖြစ် မယူထားပါ။
 
-## Paper 1 — Math 4101 ([module file](modules/Paper-01-4101.md))
+## Paper 1 — Math 4101 ([module file](modules/Paper-1-4101.md))
 
 - [ ] Theorem 1.6
 - [ ] Theorem 1.7
@@ -21,7 +21,7 @@
 - [ ] Theorem 1.35
 - [ ] MQ, p.29 (နံပါတ်/ခေါင်းစဉ်ကို ပြန်စစ်ရန်)
 
-## Paper 2 — Math 4102 ([module file](modules/Paper-02-4102.md))
+## Paper 2 — Math 4102 ([module file](modules/Paper-2-4102.md))
 
 ### Unit 1
 
@@ -45,7 +45,7 @@
 - [ ] Eg 3.12
 - [ ] S.A. 3.2 No.9
 
-## Paper 3 ([module file](modules/Paper-03.md))
+## Paper 3 — Math 4103 ([module file](modules/Paper-3-4103.md))
 
 ### Unit 1
 
@@ -71,7 +71,9 @@
 - [ ] Assignment I No.4
 - [ ] Assignment II No.2
 
-## Paper 4 ([module file](modules/Paper-04.md))
+## Paper 4 — Math 4104 ([module file](modules/Paper-4-4104.md))
+
+သီးခြားပေးထားသော `Math-4104-Source-Compressed.pdf` ကို ဒီ Paper အတွက် reference အဖြစ် စစ်ထားပါတယ်။ Source စာမျက်နှာပေါ်က ဖြေရှင်းချက်တွေကို ပြီးစီးမှုအမှန်ခြစ်အဖြစ် မယူထားပါ။
 
 - [ ] Simultaneous equations No.2
 - [ ] Simultaneous equations No.5
@@ -83,15 +85,17 @@
 - [ ] Charpit method No.10
 - [ ] Charpit method No.11
 
-## Paper 5 ([module file](modules/Paper-05.md))
+## Paper 5 — Math 4105 ([module file](modules/Paper-5-4105.md))
 
-ဓာတ်ပုံမှာ Paper 5 ခေါင်းစဉ်သာ ပါပြီး မေးခွန်းနံပါတ် မရေးထားသေးပါ။
+- [ ] မေးခွန်းနံပါတ်စာရင်း ထည့်ရန် (ဓာတ်ပုံမှာ Paper 5 ခေါင်းစဉ်သာ ပါသည်)။
 
-## Paper 7 ([module file](modules/Paper-07.md))
+## Paper 7 — Math 4107 ([module file](modules/Paper-7-4107.md))
 
-ဓာတ်ပုံရဲ့ ပထမစာမျက်နှာမှာ Paper 1 နဲ့ Paper 7 ကို တစ်နေရာတည်းမှာ ရေးထားပါတယ်။ အဲဒီ Theorem/Example နံပါတ်တွေက Paper 7 အတွက်လည်း သက်ဆိုင်သလား မသေချာသေးပါ။ [Paper 1 စာရင်း](#paper-1--math-4101-module-file) ကို ကြည့်နိုင်ပြီး Paper 7 အခြေအနေကို သီးခြား အတည်ပြုရန် လိုပါတယ်။
+ဓာတ်ပုံရဲ့ ပထမစာမျက်နှာမှာ Paper 1 နဲ့ Paper 7 ကို တစ်နေရာတည်းမှာ ရေးထားပါတယ်။ [Paper 1 စာရင်း](#paper-1--math-4101-module-file) က Paper 7 အတွက်လည်း သက်ဆိုင်သလား မသေချာသေးပါ။
 
-## Paper 8 ([module file](modules/Paper-08.md))
+- [ ] Paper 7 အတွက် မေးခွန်းနံပါတ်စာရင်း အတည်ပြုရန်။
+
+## Paper 8 — Math 4108 ([module file](modules/Paper-8-4108.md))
 
 - [ ] No.1
 - [ ] No.2
@@ -108,7 +112,7 @@
 
 ဓာတ်ပုံမှာ `...` ပါသဖြင့် No.12 နောက်ပိုင်း နံပါတ်များကို စာရင်းမပေးထားသေးပါ။
 
-## Paper 9 ([module file](modules/Paper-09.md))
+## Paper 9 — Math 4109 ([module file](modules/Paper-9-4109.md))
 
 ### Group and subgroup
 
@@ -132,7 +136,7 @@
 - [ ] Assignment II No.3
 - [ ] Assignment II No.4
 
-## Paper 10 ([module file](modules/Paper-10.md))
+## Paper 10 — Math 4110 ([module file](modules/Paper-10-4110.md))
 
 ### Unit 1
 
@@ -153,7 +157,7 @@
 - [ ] တတိယ Unit 4 စာကြောင်း (No. နံပါတ်ကို ပြန်စစ်ရန်)
 - [ ] Q.7
 
-## Paper 11 ([module file](modules/Paper-11.md))
+## Paper 11 — Math 4111 ([module file](modules/Paper-11-4111.md))
 
 - [ ] Eg 1.32
 - [ ] Ex 1.1 No.1

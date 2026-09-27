@@ -1,6 +1,6 @@
 # Study Progress
 
-This is the earlier topic-level study record. The [README](README.md) is the current checklist for the exact question numbers in the three-page photo. Math 4103 work below has not been assigned to a Paper number because that mapping is unconfirmed.
+This is the earlier topic-level study record. The [README](README.md) is the current checklist for the exact question numbers in the three-page photo. Paper 3 is Math 4103 under the current naming rule. Earlier topic-level work below has not been assigned to individual Paper 3 question numbers without an exact match.
 
 Last reviewed: 2026-09-27
 
