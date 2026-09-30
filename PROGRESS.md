@@ -2,7 +2,7 @@
 
 This is the earlier topic-level study record. The [README](README.md) is the current checklist for the exact question numbers in the three-page photo. Paper 3 is Math 4103 under the current naming rule. Earlier topic-level work below has not been assigned to individual Paper 3 question numbers without an exact match.
 
-Last reviewed: 2026-09-27
+Last reviewed: 2026-09-30
 
 **How to read this:** `[x]` means the topic or exercise was worked through in a project conversation, or its existing study notes explicitly record it as completed. `[ ]` means further practice or confirmation is needed. These marks do not certify independent mastery.
 
@@ -77,3 +77,25 @@ Last reviewed: 2026-09-27
   - `k ln x = ln(x^k)`
   - `ln A + ln B = ln(AB)`
   - `ln A - ln B = ln(A/B)`
+
+
+## Math 4108
+
+### Current exam-question progress
+
+- [x] No.1: completed in project chat.
+- [x] No.2: completed; proof flow and diagram reviewed.
+- [x] No.3: completed; complement / De Morgan proof flow reviewed.
+- [x] No.4: completed.
+- [x] No.5: completed; Cauchy-sequence proof reviewed and source notation corrected to `<a_{i_m}>`.
+- [x] No.6: completed; uniqueness-of-limit proof and diagram reviewed.
+- [x] No.7: completed; bounded-sequence / convergent-subsequence proof and diagram reviewed.
+- [x] No.8: completed.
+- [ ] No.9: next question to study.
+- [ ] No.10
+- [ ] No.11
+- [ ] No.12
+
+### Exam-review reminder
+
+- [ ] Repractice No.1–No.8 from memory using the short proof-flow / trigger-word method.
